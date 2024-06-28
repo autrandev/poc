@@ -79,5 +79,6 @@
       "unitTestRunner": "jest"
     }
   },
-  "defaultProject": "poc"
+  "defaultProject": "poc",
+  "nxCloudAccessToken": "NjkzZTk5ODYtZWY0Ni00MjBiLWI3ZDktYTE4NzYyMDY3Yzg2fHJlYWQtd3JpdGU="
 }
